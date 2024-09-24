@@ -1,2 +1,2 @@
-Aqui colocare mis practicas de ramas con git
+#Aqui colocare mis practicas de ramas con git
 
